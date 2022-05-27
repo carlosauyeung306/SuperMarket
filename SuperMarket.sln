@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperMarket", "SuperMarket\SuperMarket.csproj", "{97AAA0A8-B662-4D43-9723-96B3536B79BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketTest", "SuperMarketTest\SuperMarketTest.csproj", "{7FB9DCBC-BFB9-47E3-A410-DBE789B246EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AAA0A8-B662-4D43-9723-96B3536B79BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AAA0A8-B662-4D43-9723-96B3536B79BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AAA0A8-B662-4D43-9723-96B3536B79BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AAA0A8-B662-4D43-9723-96B3536B79BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB9DCBC-BFB9-47E3-A410-DBE789B246EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB9DCBC-BFB9-47E3-A410-DBE789B246EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB9DCBC-BFB9-47E3-A410-DBE789B246EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB9DCBC-BFB9-47E3-A410-DBE789B246EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71B24ACC-F925-4431-AB65-D890D6A7F4EC}
+	EndGlobalSection
+EndGlobal
